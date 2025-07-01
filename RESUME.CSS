@@ -1,0 +1,28 @@
+A{
+  text-decoration: none;
+  color: black;
+}
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    h1, h2 {
+      text-align: center;
+      color: black;
+    }
+    td {
+      padding: 8px;
+      vertical-align: top;
+    }
+    .section-title {
+      background-color: rgb(220, 231, 245);
+      font-weight: bold;
+      text-align: left;
+    }
+    hr {
+      border: 2px solid lightgrey;
+    }
